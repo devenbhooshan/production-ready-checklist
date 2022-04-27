@@ -147,8 +147,8 @@
           "description": "TODO"
         },
         {
-          "title": "Graceful shutdown",
-          "description": "TODO"
+          "title": "Return proper status codes in the api response",
+          "description": "Return 4xx for client errors, 5xx for server errors, and 2xx for success."
         }
       ],
       "title": "Misc"
